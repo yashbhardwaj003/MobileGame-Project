@@ -13,16 +13,7 @@
 
 ---
 
-## :video_game: Gameplay
-<img src="https://github.com/natygames/juicy-match/blob/master/screenshot/tutorial.gif" width="200"> <img src="https://github.com/natygames/juicy-match/blob/master/screenshot/obstacle.gif" width="200"> <img src="https://github.com/natygames/juicy-match/blob/master/screenshot/collect.gif" width="200"> <img src="https://github.com/natygames/juicy-match/blob/master/screenshot/mixed.gif" width="200">
 
-## :film_projector: Demo
-<details>
-     <summary> Click to expand </summary>
-  
-https://user-images.githubusercontent.com/93536412/191766820-ff952d4f-2320-4ac4-bca1-28de7089243b.mp4
-
-</details>
 
 ## :handshake: Credit
 
@@ -33,5 +24,3 @@ Art from [princesseFranky](https://opengameart.org/content/flat-designed-fruits)
 Music from [Free Music](https://soundcloud.com/fm_freemusic),
 [mixkit]( https://mixkit.co/free-sound-effects)
 
-## :balance_scale: License:
-Juicy Match is licensed under the [MIT license](https://github.com/nativegamestudio/juicy-match/blob/master/LICENSE)
